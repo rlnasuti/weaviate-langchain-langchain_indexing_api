@@ -2,7 +2,7 @@ Hail and well met!
 
 ## What is this?
 
-Demonstrating how to piece together various pieces of functionality using Langchain and Weaviate
+Demonstration of how to piece together various pieces of functionality using Langchain and Weaviate
 
 Some things in here:
 - docker compose file used to setup an instance of Weaviate locally that will work with the langchain indexing api.
