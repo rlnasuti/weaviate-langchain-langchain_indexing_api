@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "weaviate-experiment"
+version = "0.1.0"
+description = ""
+authors = ["Robert Nasuti <rlnasuti@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.0.297"
+openai = "^0.28.0"
+tiktoken = "^0.5.1"
+weaviate-client = "^3.24.1"
+lark = "^1.1.7"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,6 @@
+.venv/
+tests/
+weaviate_data/
+weaviate_experiment/
+.env
+record_manager_cache.sql
